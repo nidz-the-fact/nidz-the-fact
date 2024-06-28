@@ -48,7 +48,8 @@
 ### 🫡: Focus and building
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity (Web3)" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/color/eth.svg" title="Ethereum Virtual Machine (EVM)" alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 </div>
 
 #
