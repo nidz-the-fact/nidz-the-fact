@@ -34,22 +34,41 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <br>
   <br>
-  <p>Studying soft skills</p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <p>Soft skills</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
+  <br>
+  <br>
+  <p>Studying</p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="20" height="20"/>&nbsp;
 </div>
 
 #
 
-### 🫡: Focus and building
+### 🫡: Focus and building (Web3)
 
 <div>
   <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/svg/color/eth.svg" title="Ethereum Virtual Machine (EVM)" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
+  <br>
+  <br>
+  <p>Tools</p>
+  <img src="https://avatars.githubusercontent.com/u/37784886?s=200&v=4" title="Walletconnect" alt="Walletconnect" width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/48327834?s=48&v=4" title="Rainbowkit" alt="Rainbowkit" width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/79496167?s=200&v=4" title="Thirdweb" alt="Thirdweb" width="30" height="30"/>&nbsp;
+  <img src="https://repository-images.githubusercontent.com/59065830/b62be480-45d2-11ea-9989-803db0f9c44d" title="Remix-IDE" alt="Remix-IDE" width="30" height="30"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/99892494?s=48&v=4" title="Foundry" alt="Foundry" width="30" height="30"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" title="Hardhat" alt="Hardhat" width="30" height="30"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-light.svg" title="Wagmi" alt="Wagmi" width="30" height="30"/>&nbsp;
+  <img src="https://viem.sh/icon-light.png" title="Viem" alt="Viem" width="20" height="20"/>&nbsp;
+  <img src="https://pbs.twimg.com/card_img/1803145108713570304/2dSs6bU6?format=jpg&name=large" title="Web3JS" alt="Web3JS" width="20" height="20"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4" title="EthersJS" alt="EthersJS" width="20" height="20"/>&nbsp;
 </div>
 
 #
