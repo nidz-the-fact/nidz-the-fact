@@ -42,6 +42,7 @@
   <br>
   <p>Soft skills</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
   <br>
   <br>
@@ -69,7 +70,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" title="Hardhat" alt="Hardhat" width="30" height="30"/>&nbsp;
   <img src="https://raw.githubusercontent.com/wevm/wagmi/main/.github/logo-light.svg" title="Wagmi" alt="Wagmi" width="30" height="30"/>&nbsp;
   <img src="https://viem.sh/icon-light.png" title="Viem" alt="Viem" width="20" height="20"/>&nbsp;
-  <img src="https://pbs.twimg.com/card_img/1803145108713570304/2dSs6bU6?format=jpg&name=large" title="Web3JS" alt="Web3JS" width="20" height="20"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQObTUiQPGrZT2SNJq7vC1mRsr_-Q1YgLbLWMxK5pIM5vOUWylPQVvGsCGtpw&s" title="Web3JS" alt="Web3JS" width="20" height="20"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/18492273?s=48&v=4" title="EthersJS" alt="EthersJS" width="20" height="20"/>&nbsp;
 </div>
 
