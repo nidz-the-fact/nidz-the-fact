@@ -13,7 +13,7 @@
   <a href="https://www.youtube.com/channel/UCTzFa7zzyMMeyMHIdsb60nw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/TeeraponNidz">
+  <a href="https://twitter.com/nidzthefact">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=nidz-the-fact&style=flat-square&color=yellow" alt="account counter"/>
@@ -75,6 +75,9 @@
 </div>
 
 #
+
+### 🖥: Operating System
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Viem" width="20" height="20"/>&nbsp;
 
 
 
