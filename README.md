@@ -15,8 +15,11 @@
   </a>
   <a href="https://twitter.com/nidzthefact">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <br>
+  <a href="https://linktr.ee/nid_z">
   <img src="https://komarev.com/ghpvc/?username=nidz-the-fact&style=flat-square&color=yellow" alt="account counter"/>
+  </a>
 </div><br>
 
 <div align="center">
