@@ -77,7 +77,7 @@
 #
 
 ### 🖥: Operating System
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Viem" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" alt="Viem" width="40" height="40"/>&nbsp;
 
 
 
